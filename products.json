@@ -1,0 +1,102 @@
+[
+  {
+    "id": "fresh-travel-100",
+    "name": "Fresh Menthol & Lemon",
+    "mood": "fresh",
+    "type": "travel",
+    "size": "100ml",
+    "price": 99,
+    "image": "images/fresh.jpg",
+    "description": "สูตรเมนทอลเย็นสดผสมมะนาว ให้ความรู้สึกสะอาดปลอดโปร่งตั้งแต่แตะน้ำแรก เหมาะพกพาไปทุกที่"
+  },
+  {
+    "id": "fresh-bottle-450",
+    "name": "Fresh Menthol & Lemon",
+    "mood": "fresh",
+    "type": "bottle",
+    "size": "450ml",
+    "price": 259,
+    "image": "images/fresh.jpg",
+    "description": "สูตรเมนทอลเย็นสดผสมมะนาว ให้ความรู้สึกสะอาดปลอดโปร่งตั้งแต่แตะน้ำแรก ขนาดคุ้มสำหรับใช้ในบ้าน"
+  },
+  {
+    "id": "relax-travel-100",
+    "name": "Relax Lavender & Chamomile",
+    "mood": "relax",
+    "type": "travel",
+    "size": "100ml",
+    "price": 99,
+    "image": "images/relax.jpg",
+    "description": "กลิ่นลาเวนเดอร์และคาโมมายล์ช่วยผ่อนคลายความเหนื่อยล้า เหมาะสำหรับช่วงเวลาพักผ่อนหลังวันที่ยาวนาน"
+  },
+  {
+    "id": "relax-bottle-450",
+    "name": "Relax Lavender & Chamomile",
+    "mood": "relax",
+    "type": "bottle",
+    "size": "450ml",
+    "price": 259,
+    "image": "images/relax.jpg",
+    "description": "กลิ่นลาเวนเดอร์และคาโมมายล์ช่วยผ่อนคลายความเหนื่อยล้า ขนาดคุ้มสำหรับใช้ในบ้าน"
+  },
+  {
+    "id": "clean-travel-100",
+    "name": "Clean Charcoal & Eucalyptus",
+    "mood": "clean",
+    "type": "travel",
+    "size": "100ml",
+    "price": 99,
+    "image": "images/clean.jpg",
+    "description": "ผสานชาร์โคลกับยูคาลิปตัส ชำระล้างสิ่งสกปรกและความมันส่วนเกินได้อย่างล้ำลึก ผิวรู้สึกสะอาดโปร่งสบาย"
+  },
+  {
+    "id": "clean-bottle-450",
+    "name": "Clean Charcoal & Eucalyptus",
+    "mood": "clean",
+    "type": "bottle",
+    "size": "450ml",
+    "price": 259,
+    "image": "images/clean.jpg",
+    "description": "ผสานชาร์โคลกับยูคาลิปตัส ชำระล้างสิ่งสกปรกและความมันส่วนเกินได้อย่างล้ำลึก ขนาดคุ้มสำหรับใช้ในบ้าน"
+  },
+  {
+    "id": "nourish-travel-100",
+    "name": "Nourish Vanilla & Almond",
+    "mood": "nourish",
+    "type": "travel",
+    "size": "100ml",
+    "price": 99,
+    "image": "images/nourish.jpg",
+    "description": "วานิลลาอุ่นละมุนผสมน้ำมันอัลมอนด์ บำรุงผิวให้นุ่มชุ่มชื้นในทุกการอาบน้ำ"
+  },
+  {
+    "id": "nourish-bottle-450",
+    "name": "Nourish Vanilla & Almond",
+    "mood": "nourish",
+    "type": "bottle",
+    "size": "450ml",
+    "price": 259,
+    "image": "images/nourish.jpg",
+    "description": "วานิลลาอุ่นละมุนผสมน้ำมันอัลมอนด์ บำรุงผิวให้นุ่มชุ่มชื้น ขนาดคุ้มสำหรับใช้ในบ้าน"
+  },
+  {
+    "id": "relax-refill-500",
+    "name": "Refill Relax Lavender & Chamomile",
+    "mood": "relax",
+    "type": "refill",
+    "size": "500ml",
+    "price": 219,
+    "image": "images/relax.jpg",
+    "description": "ถุงเติมสูตรลาเวนเดอร์และคาโมมายล์ ออกแบบมาเพื่อเติมใส่ขวดเดิม ลดการใช้พลาสติกโดยไม่ลดทอนคุณภาพ"
+  },
+  {
+    "id": "fresh-refill-500",
+    "name": "Refill Fresh Menthol & Lemon",
+    "mood": "fresh",
+    "type": "refill",
+    "size": "500ml",
+    "price": 219,
+    "image": "images/fresh.jpg",
+    "description": "ถุงเติมสูตรเมนทอลและมะนาว ออกแบบมาเพื่อเติมใส่ขวดเดิม ลดการใช้พลาสติกโดยไม่ลดทอนคุณภาพ"
+  }
+]

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>สินค้าทั้งหมด — Glow &amp; Soft</title>
+  <meta name="description" content="เลือกแชมพูอาบน้ำ Glow & Soft ทั้ง 4 สูตรกลิ่น ขนาดเดินทาง ขวดปั๊ม และถุงเติม">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container site-header__inner">
+      <a class="logo" href="index.html">Glow &amp; Soft</a>
+      <nav class="nav">
+        <a href="index.html">หน้าแรก</a>
+        <a href="product.html">สินค้าทั้งหมด</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="container stack">
+        <h1 class="h1">สินค้าทั้งหมด</h1>
+        <p class="lead">เลือกสูตรและขนาดที่เหมาะกับคุณ ตั้งแต่ขนาดพกพาไปจนถึงขวดปั๊มและถุงเติมสำหรับใช้ที่บ้าน</p>
+
+        <div class="cluster" id="filter-bar">
+          <button type="button" class="btn btn--outline is-active" data-mood="all">ทั้งหมด</button>
+          <button type="button" class="btn btn--outline" data-mood="fresh">Fresh</button>
+          <button type="button" class="btn btn--outline" data-mood="relax">Relax</button>
+          <button type="button" class="btn btn--outline" data-mood="clean">Clean</button>
+          <button type="button" class="btn btn--outline" data-mood="nourish">Nourish</button>
+        </div>
+
+        <div class="grid grid--2 grid--4" id="product-list">
+          <!-- script.js renders product cards here -->
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2026 Glow &amp; Soft</p>
+    </div>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
